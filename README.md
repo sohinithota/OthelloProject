@@ -1,4 +1,7 @@
+READ THIS FILE IN RAW MODE 
+<p>
 Materials use: VSCode, WSL Terminal integrated in VSCode
+<p>
 To run game:
 >>make 
 >>./bin/othello_demo
