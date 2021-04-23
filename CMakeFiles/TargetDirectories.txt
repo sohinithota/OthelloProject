@@ -1,0 +1,4 @@
+/mnt/c/Users/16305/Downloads/othello-project-sohinithota/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/16305/Downloads/othello-project-sohinithota/CMakeFiles/edit_cache.dir
+/mnt/c/Users/16305/Downloads/othello-project-sohinithota/CMakeFiles/othello_tests.dir
+/mnt/c/Users/16305/Downloads/othello-project-sohinithota/CMakeFiles/othello_demo.dir

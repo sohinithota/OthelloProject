@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/16305/Downloads/othello-project-sohinithota/othello.c
+othello.h
+/mnt/c/Users/16305/Downloads/othello-project-sohinithota/othello.h
+math.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/mnt/c/Users/16305/Downloads/othello-project-sohinithota/othello.h
+stdio.h
+-
+

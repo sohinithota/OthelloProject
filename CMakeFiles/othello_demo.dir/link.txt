@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/othello_demo.dir/othello_demo.c.o CMakeFiles/othello_demo.dir/othello.c.o  -o bin/othello_demo  -lm 
